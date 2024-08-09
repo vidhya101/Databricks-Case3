@@ -1,0 +1,11 @@
+month,format,device_type,bid_type,network_id, spend , impressions ,clicks,measurable_imps,viewable_imps,engagements,video_start,video_complete, audio_start ,audio_complete,_c15,_c16,_c17,_c18,_c19,_c20,_c21,_c22,_c23,_c24,_c25,_c26
+Nov-19,display,desktop,cpc,20,73.56,"58,641",49,15468,6389,4,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,75,227.4,"41,074",168,7426,2679,13,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,85,332.99,"303,787",225,49079,26364,46,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,86,55.41,"85,832",45,6806,2568,1,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,87,304.83,"239,124",223,30268,13555,59,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,94,87.58,"135,752",68,7367,3045,4,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,95,214.42,"225,100",167,22604,6002,17,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,106,66.32,"92,302",43,0,0,5,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,109,83.65,"137,168",50,0,0,5,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+Nov-19,display,desktop,cpc,116,9.12,"15,469",7,2251,1016,1,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null
